@@ -1,0 +1,8 @@
+title: Amrita CompNeuro Lab - Code repositories
+description: GitHub pages for Amrita Computational Neuroscience Laboratory, Amrita University, India
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
